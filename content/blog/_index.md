@@ -1,35 +1,33 @@
 ---
-title: Courses I taught so far
-description: |
-  You can find contents and syllabuses of the courses I taught so far. However, due to copyright issues, all materials may not available.
-author: "Abdul M Khan"
-show_post_thumbnail: true
-show_author_byline: true
-show_post_date: true
-# for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
-
-# for list-sidebar layout
-sidebar: 
-  title: Courses I taught so far
-  description: |
-    You can find contents and syllabuses of the courses I taught so far. However, due to copyright issues, all materials may not available.
-  author: "Abdul M Khan"
-  text_link_label: Subscribe via RSS
-  text_link_url: /index.xml
-  show_sidebar_adunit: false # show ad container
-
-# set up common front matter for all pages inside blog/
+title: Courses I Teach
+author: Abdul M Khan
+date: '2021-10-23'
+tags:
+  - teaching
+description: I am in BUP for last four years. I had taught variety of subjects, ranging
+  from intermediate macroeconomics to Software for economic analysis. You will find
+  different course materials that I teach in this page. However, due to compliance
+  with the copyright I can not upload the full course materials.
+show_post_thumbnail: yes
+show_author_byline: yes
+show_post_date: no
+layout: list-grid
+sidebar:
+  title: Teaching
+  description: "Projects can be anything!\nCheck out the _index.md file in the /project
+    folder \nto edit this content.\n"
+  author: The R Markdown Team @RStudio
+  text_link_label: ''
+  text_link_url: ''
+  show_sidebar_adunit: no
 cascade:
-  author: "Abdul M Khan"
-  show_author_byline: true
-  show_post_date: true
-  show_disqus_comments: false # see disqusShortname in site config
-  # for single-sidebar layout
+  show_author_byline: yes
+  show_post_date: no
+  show_disqus_comments: no
   sidebar:
-    text_link_label: View recent posts
-    text_link_url: /blog/
-    show_sidebar_adunit: false # show ad container
+    text_link_label: View all projects
+    text_link_url: /teaching/
+    show_sidebar_adunit: yes
 ---
 
-** No content below YAML for the blog _index. This file provides front matter for the listing page layout and sidebar content. It is also a branch bundle, and all settings under `cascade` provide front matter for all pages inside blog/. You may still override any of these by changing them in a page's front matter.**
+** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
