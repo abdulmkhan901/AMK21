@@ -95,6 +95,7 @@ enableEmoji = true
   series = "series"
   tag = "tags"
 
+
 [menu]
   [[menu.header]]
     name = "About"
@@ -102,18 +103,18 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
+    name = "teaching"
+    title = "Courses I Taught"
     url = "/blog/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
+    name = "Papers"
+    title = "Research Portfolio"
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
+    name = "Working Papers"
+    title = "Working Papers"
     url = "/talk/"
     weight = 4
     
