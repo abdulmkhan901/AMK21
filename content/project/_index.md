@@ -1,21 +1,19 @@
 ---
-title: A Project Portfolio To Grow
-description: "Give your projects a place to live online."
-author: "The R Markdown Team @RStudio"
+title: Research Paper
+description: "You can find my research papers, which are published. You can read some exerpts of these papers, mainly the sections I wrote. Also, if possible I will provide link for the full paper and codes"
+author: "Abdul M Khan"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: false
 # for listing page layout
-layout: list-grid # list, list-sidebar, list-grid
+layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: A Sidebar for Your Projects
+  title: Research Paper
   description: |
-    Projects can be anything!
-    Check out the _index.md file in the /project folder 
-    to edit this content.
-  author: "The R Markdown Team @RStudio"
+    You can find my research papers, which are published. You can read some exerpts of these papers, mainly the sections I wrote. Also, if possible I will provide link for the full paper and codes
+  author: "Abdul M Khan"
   text_link_label: ""
   text_link_url: ""
   show_sidebar_adunit: false # show ad container
