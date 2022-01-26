@@ -1,8 +1,8 @@
 ---
-title: Talks that Last
+title: Working Paper
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
-author: "The R Markdown Team @RStudio"
+  Here you can find what I am currently working on, also some supervised student papers which need a little brush up 
+author: "Abdul M Khan"
 show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
@@ -12,14 +12,9 @@ layout: list # list, list-sidebar
 
 # for list-sidebar layout
 sidebar: 
-  title: Talks that Last
+  title: Working Paper
   description: |
-    This is a list for your talks, workshops, or 
-    other events with a time, date, and place. 
-    Even this sidebar offers a ton of customizations.
-    
-    Check out the _index.md file in the /talk folder 
-    to edit this content. 
+    THere you can find what I am currently working on, also some supervised student papers which need a little brush up  
   author: "Abdul M Khan"
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
