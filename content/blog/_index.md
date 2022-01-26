@@ -1,6 +1,7 @@
 ---
 title: Courses I taught so far
 description: |
+  You can find contents and syllabuses of the courses I taught so far. However, due to copyright issues, all materials may not available.
 author: "Abdul M Khan"
 show_post_thumbnail: true
 show_author_byline: true
@@ -12,9 +13,7 @@ layout: list-sidebar # list, list-sidebar, list-grid
 sidebar: 
   title: Courses I taught so far
   description: |
-    
-    Check out the _index.md file in the /blog folder 
-    to edit this content. 
+    You can find contents and syllabuses of the courses I taught so far. However, due to copyright issues, all materials may not available.
   author: "Abdul M Khan"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
