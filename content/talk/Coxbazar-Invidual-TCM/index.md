@@ -12,12 +12,11 @@ services of more than BDT 45k consumer surplus for per tourist and from that con
 surplus Cox’s Bazar’s recreational value is BDT 913 billion which is 3.31% of GDP of
 Bangladesh. This result expected to recommend the policy makers to be cognizant about
 value added by Cox’s Bazar tourism in Bangladesh’s Economy"
-date: 2021-01-12
 
-show_post_thumbnail: true
-show_author_byline: false
-show_post_date: false
-draft: true
+date: 2021-01-12
+date_end: "2021-01-13"
+show_post_time: false
+draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
