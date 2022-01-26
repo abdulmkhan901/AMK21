@@ -14,7 +14,7 @@ layout: list-sidebar # list, list-sidebar
 sidebar: 
   title: Working Paper
   description: |
-    THere you can find what I am currently working on, also some supervised student papers which need a little brush up  
+    Here you can find what I am currently working on, also some supervised student papers which need a little brush up  
   author: "Abdul M Khan"
   text_link_label: Subscribe via RSS
   text_link_url: /talk/index.xml
