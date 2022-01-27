@@ -7,6 +7,7 @@ show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
 show_post_time: true
+type: project
 # for listing page layout
 layout: list-sidebar # list, list-sidebar
 
@@ -22,10 +23,11 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
+  type: project
   author: "Abdul M Khan"
-  show_author_byline: true
-  show_post_date: true
-  show_post_time: true
+  show_author_byline: false
+  show_post_date: false
+  show_post_time: false
   show_disqus_comments: false # see disqusShortname in site config
   # for single-sidebar layout
   sidebar:
