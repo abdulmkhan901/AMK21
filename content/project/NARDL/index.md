@@ -30,6 +30,7 @@ the tourism receipt in Bangladesh, which result is important for current pandemi
 of positive change in the tourism revenue on GDP stabilizes around 8 years; however, an adverse change on GDP does not stabilize in 15 years. We
 recommend that a systematic allocation of resources is required to promote and stimulate the tourism industry in Bangladesh for a favourable impact
 on the country’s long-run economic development.
+
 ---
 
 ## IMPACT OF COVID-19 IN BANGLADESH ENERGY SECTOR
