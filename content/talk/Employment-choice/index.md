@@ -3,9 +3,9 @@ title: "Job Preferences of BUP Students: A Discrete Choice Analysis"
 subtitle: "Students prefer the public sector more than the private sector, they prefer job stability and less working hours. Also, they are not willing to use their subject specific skills, learnt in their university life, into the professional life"
 excerpt: "Students prefer the public sector more than the private sector, they prefer job stability and less working hours. Also, they are not willing to use their subject specific skills, learnt in their university life, into the professional life"
 date: 2021-12-12
-date_end: "2021-12-12"
+date_end: "2021-12-13"
 show_post_time: false
-draft: true
+draft: false
 author: ""
 # layout options: single, single-sidebar
 layout: single
