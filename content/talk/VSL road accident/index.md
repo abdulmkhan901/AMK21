@@ -11,8 +11,8 @@ draft: false
 layout: single
 categories:
 - Supervised paper
-
-
+---
+![](VSL-featured.jpg)
 ---
 
 # Abstract
