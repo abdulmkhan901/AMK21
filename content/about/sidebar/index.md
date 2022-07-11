@@ -12,8 +12,8 @@ link_list:
   url: https://en.wikipedia.org/wiki/One_Piece
 - name: Middle Earth
   url: https://en.wikipedia.org/wiki/Middle-earth
-- name: Origami
-  url: https://en.wikipedia.org/wiki/Origami
+- name: Studio Ghibli
+  url: https://en.wikipedia.org/wiki/Studio_Ghibli
 ---
 
 ** index doesn't contain a body, just front matter above.
