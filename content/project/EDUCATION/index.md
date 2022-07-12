@@ -7,7 +7,7 @@ Bangladesh."
 excerpt: "We apply Conditional logit model is used to explore the choice preference of the
 respondents based on the attributes. Our sample includes 306 responses belonging to Bangladesh University of Professionals (BUP) and North South University (NSU). We find that university students explicitly dislike recorded videos as the primary mode of instruction as there is minimum human interaction using this method."
 date: 2022-07-06
-author: " Abdul M Khan, Sakib Bin Amin, Adib Ahmed, Tanzila Sultana"
+author: " Adib Ahmed, Sakib Bin Amin, Grace McCarthy, Abdul Mahidud Khan, Rabindra Nepal"
 draft: false
 tags:
   - published
